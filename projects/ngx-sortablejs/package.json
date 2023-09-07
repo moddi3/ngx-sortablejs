@@ -1,5 +1,5 @@
 {
-  "name": "ngx-sortablejs",
+  "name": "@moddi3/ngx-sortablejs",
   "keywords": [
     "ngx-sortablejs",
     "angular-sortablejs",
@@ -12,7 +12,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sortablejs/ngx-sortablejs"
+    "url": "https://github.com/moddi3/ngx-sortablejs"
   },
   "publishConfig": {
     "access": "public"
